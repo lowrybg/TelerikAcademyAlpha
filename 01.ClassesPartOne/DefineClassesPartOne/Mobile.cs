@@ -13,7 +13,15 @@ namespace DefineClassesPartOne
         private decimal price;
         private string owner;
 
-        private static Mobile iPhone4s;
+        private static Mobile iPhone4s = new Mobile(
+            "iPhone 4S",
+            "Apple",
+            500,
+            "Rene",
+            new Battery("Samsung",48, 24),
+            new Display(4.5, 16000000));
+       
+
         public Mobile()
         {
 
