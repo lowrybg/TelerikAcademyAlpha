@@ -11,8 +11,9 @@ namespace DefineClassesPartOne
         private string model;
         private string manufacturer;
         private decimal price;
-        private string owner; 
+        private string owner;
 
+        private static Mobile iPhone4s;
         public Mobile()
         {
 
@@ -23,7 +24,7 @@ namespace DefineClassesPartOne
             this.Manufacturer = manufacturer;
 
         }
-        public Mobile(string model, string manufacture,decimal price, string owner)
+        public Mobile(string model, string manufacture,decimal price, string owner, Battery battery, Display display)
         {
             this.Model = model;
             this.Manufacturer = manufacturer;
@@ -75,5 +76,21 @@ namespace DefineClassesPartOne
                 this.owner = value;
             }
         }
+        public static Mobile IPhone4S
+        {
+            get
+            {
+                return iPhone4s;
+            }
+        }
+
+        public object Display { get; private set; }
+        public object Battery { get; private set; }
+
+        public override string ToString()
+        {
+            return $"Model: {this.Model}\nManufacturer: {this.Manufacturer}\nPrice: {this.Price}\nOwner: {this.Owner}\nDisplay: {this.Display}\nBattery: {this.Battery}";
+        }
+
     }
 }
