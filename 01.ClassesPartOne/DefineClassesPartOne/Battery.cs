@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace DefineClassesPartOne
 {
-    class Program
+    class Battery
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }
