@@ -12,6 +12,7 @@ namespace DefineClassesPartOne
         private string manufacturer;
         private decimal price;
         private string owner;
+        private List<Call> callHistory;
 
         private static Mobile iPhone4s = new Mobile(
             "iPhone 4S",
@@ -91,9 +92,27 @@ namespace DefineClassesPartOne
                 return iPhone4s;
             }
         }
+        public List<Call> CallHistory
+        {
+            get
+            {
+                return this.callHistory;
+            }
+           private set
+            {
+                this.callHistory = value;
+            }
+        }
+
 
         public object Display { get; private set; }
         public object Battery { get; private set; }
+
+        public void AddCall(Call call)
+        {
+            this.CallHistory = null;
+            this.CallHistory.Add(call);
+        }
 
         public override string ToString()
         {

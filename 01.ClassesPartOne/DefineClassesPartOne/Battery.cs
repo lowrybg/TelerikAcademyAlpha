@@ -20,7 +20,7 @@ namespace DefineClassesPartOne
             this.HoursTalk = hoursTalk;
             
         }
-
+       
         public string Model
         {
             get

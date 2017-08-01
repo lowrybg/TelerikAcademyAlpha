@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace DefineClassesPartOne
 {
-    class Program
+   public class Program
     {
         static void Main(string[] args)
         {
-           
+            Display test = new Display(5,3);
+            Console.WriteLine(test);
         }
     }
 }
