@@ -1,0 +1,6 @@
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\Allocate\bin\Debug\Allocate.exe.config
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\Allocate\bin\Debug\Allocate.exe
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\Allocate\bin\Debug\Allocate.pdb
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\Allocate\obj\Debug\Allocate.csprojResolveAssemblyReference.cache
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\Allocate\obj\Debug\Allocate.exe
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\Allocate\obj\Debug\Allocate.pdb

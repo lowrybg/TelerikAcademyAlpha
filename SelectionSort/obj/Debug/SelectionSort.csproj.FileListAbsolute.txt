@@ -1,0 +1,6 @@
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\SelectionSort\obj\Debug\SelectionSort.pdb

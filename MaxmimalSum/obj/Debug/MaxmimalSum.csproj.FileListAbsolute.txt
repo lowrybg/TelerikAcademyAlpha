@@ -1,0 +1,6 @@
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxmimalSum\bin\Debug\MaxmimalSum.exe.config
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxmimalSum\bin\Debug\MaxmimalSum.exe
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxmimalSum\bin\Debug\MaxmimalSum.pdb
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxmimalSum\obj\Debug\MaxmimalSum.exe
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxmimalSum\obj\Debug\MaxmimalSum.pdb
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxmimalSum\obj\Debug\MaxmimalSum.csprojResolveAssemblyReference.cache

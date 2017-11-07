@@ -1,0 +1,6 @@
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxK\bin\Debug\MaxK.exe.config
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxK\bin\Debug\MaxK.exe
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxK\bin\Debug\MaxK.pdb
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxK\obj\Debug\MaxK.csprojResolveAssemblyReference.cache
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxK\obj\Debug\MaxK.exe
+C:\Users\Taner\Desktop\TelerikAlpha\ModuleOne\Arrays\MaxK\obj\Debug\MaxK.pdb
