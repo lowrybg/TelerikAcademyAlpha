@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefineClassesPartOne", "DefineClassesPartOne\DefineClassesPartOne.csproj", "{5DDFEB33-43F0-4996-B820-B2DD3864650D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traveller", "..\..\..\ModuleTwo\Traveller_Skeleton\Traveller\Traveller\Traveller.csproj", "{37BA7D68-D803-4820-9586-8EFC016C9144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traveller.UnitTests", "..\..\..\ModuleTwo\Traveller_Skeleton\Traveller\Traveller.UnitTests\Traveller.UnitTests.csproj", "{48EF9833-BAE8-4B6A-B199-867E8E7F4729}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +19,19 @@ Global
 		{5DDFEB33-43F0-4996-B820-B2DD3864650D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DDFEB33-43F0-4996-B820-B2DD3864650D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DDFEB33-43F0-4996-B820-B2DD3864650D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BA7D68-D803-4820-9586-8EFC016C9144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BA7D68-D803-4820-9586-8EFC016C9144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BA7D68-D803-4820-9586-8EFC016C9144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BA7D68-D803-4820-9586-8EFC016C9144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48EF9833-BAE8-4B6A-B199-867E8E7F4729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48EF9833-BAE8-4B6A-B199-867E8E7F4729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48EF9833-BAE8-4B6A-B199-867E8E7F4729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48EF9833-BAE8-4B6A-B199-867E8E7F4729}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3318F4FB-799E-4956-8667-23BA5DBDD12C}
 	EndGlobalSection
 EndGlobal
